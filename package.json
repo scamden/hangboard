@@ -1,5 +1,5 @@
 {
-  "name": "bedrock",
+  "name": "hangboard",
   "version": "0.0.1",
   "description": "a template for basic js packages",
   "main": "src/index.js",
@@ -33,5 +33,9 @@
     "phantomjs": "~1.9.18",
     "watchify": "~3.4.0",
     "yargs": "~3.26.0"
-  }
+  },
+  "keywords": [
+    "climbing",
+    "bouldering"
+  ]
 }
